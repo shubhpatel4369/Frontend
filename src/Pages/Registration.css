@@ -1,0 +1,25 @@
+.newbg{
+    background-color: #eee;
+}
+.se{
+    size: 100px;
+}
+.newbr{
+    border-radius: 25px;
+}
+.newimg{
+    padding: 20px;
+}
+newimg{
+    /* padding:20px; */
+    /* margin-right: 1000px; */
+    /* width: 10000px; */
+    /* margin-left: 550; */
+    margin: auto;
+    width: 60%;
+    display: block;
+}
+.third-item{
+    background-color: green;
+    color: white;
+}

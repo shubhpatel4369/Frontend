@@ -1,0 +1,7 @@
+<Routes>
+      <Route path ="/" element ={<AdminDashboard/>}></Route>
+      <Route path ="/AdminDashboard/Components/Role/RoleUpdate" element ={<RoleUpdate/>}></Route>
+      <Route path ="/AdminDashboard/Components/Role/AddRole" element ={<AddRole/>}></Route>
+      <Route path ="/AdminDashboard/Components/Role/RoleUpdate/RoleUpdateData/:id" element ={<RoleUpdateData/>}></Route>
+      <Route path ="/AdminDashboard/Components/Role/RoleUpdate/DeleteData" element ={<RoleUpdate/>}></Route>
+    </Routes>
